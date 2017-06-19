@@ -1,0 +1,3 @@
+<div class="b-content__htitle"><h1 >{description}</h1></div>
+{static}																																																																																																																																																																					<span style="display:none;"> <a href="http://dleshka.org/" title="Уникальные модули, шаблоны DLE скачать">модули, шаблоны DLE</a> <a href="http://themka.ru/" title="Качественные шаблоны для веб сайтов">шаблоны для веб сайтов</a></span>
+{pages}

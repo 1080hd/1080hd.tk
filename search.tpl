@@ -1,0 +1,1 @@
+[searchmsg]<div class="b-content__htitle"> <h1>{searchmsg}</h1> </div>[/searchmsg]

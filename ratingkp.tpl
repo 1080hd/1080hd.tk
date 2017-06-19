@@ -1,0 +1,2 @@
+[e:rating:imdb]<span class="imdb">IMDb: <b> [rating:imdb:1] </b> <i>([vote:imdb: ])</i></span>[/e:rating:imdb]
+[e:rating:kp]<span class="kp">Кинопоиск: <b> [rating:kp:1] </b> <i>([vote:kp: ])</i></span>[/e:rating:kp]
